@@ -1,0 +1,6 @@
+framework module Pods_LCESwiftBaseProject {
+  umbrella header "Pods-LCESwiftBaseProject-umbrella.h"
+
+  export *
+  module * { export * }
+}
