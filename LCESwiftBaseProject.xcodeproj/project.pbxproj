@@ -10,6 +10,7 @@
 		042EF93124725A8100FE84BB /* LCEProgressHUD.swift in Sources */ = {isa = PBXBuildFile; fileRef = 042EF93024725A8100FE84BB /* LCEProgressHUD.swift */; };
 		042EF9332472604400FE84BB /* LCENaviView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 042EF9322472604400FE84BB /* LCENaviView.swift */; };
 		042EF93524728F3600FE84BB /* LCETabBarController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 042EF93424728F3600FE84BB /* LCETabBarController.swift */; };
+		0471F1D1257F2ED800EAB574 /* LCESwiftUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0471F1D0257F2ED800EAB574 /* LCESwiftUI.swift */; };
 		047AFDBA247509BF00ED4D11 /* LCERequestApi.swift in Sources */ = {isa = PBXBuildFile; fileRef = 047AFDB9247509BF00ED4D11 /* LCERequestApi.swift */; };
 		047AFDBC247523F700ED4D11 /* LCEModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 047AFDBB247523F700ED4D11 /* LCEModel.swift */; };
 		0487E6A624736F54005FA48E /* LCEMeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0487E6A524736F54005FA48E /* LCEMeViewController.swift */; };
@@ -49,6 +50,7 @@
 		042EF93024725A8100FE84BB /* LCEProgressHUD.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LCEProgressHUD.swift; sourceTree = "<group>"; };
 		042EF9322472604400FE84BB /* LCENaviView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LCENaviView.swift; sourceTree = "<group>"; };
 		042EF93424728F3600FE84BB /* LCETabBarController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LCETabBarController.swift; sourceTree = "<group>"; };
+		0471F1D0257F2ED800EAB574 /* LCESwiftUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LCESwiftUI.swift; sourceTree = "<group>"; };
 		047AFDB9247509BF00ED4D11 /* LCERequestApi.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LCERequestApi.swift; sourceTree = "<group>"; };
 		047AFDBB247523F700ED4D11 /* LCEModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LCEModel.swift; sourceTree = "<group>"; };
 		0487E6A524736F54005FA48E /* LCEMeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LCEMeViewController.swift; sourceTree = "<group>"; };
@@ -249,6 +251,7 @@
 			isa = PBXGroup;
 			children = (
 				04F2C2C32466B75D00D73DC3 /* LCEHomeViewController.swift */,
+				0471F1D0257F2ED800EAB574 /* LCESwiftUI.swift */,
 			);
 			path = HomeVC;
 			sourceTree = "<group>";
@@ -455,6 +458,7 @@
 				047AFDBA247509BF00ED4D11 /* LCERequestApi.swift in Sources */,
 				04E9C73A246E6D3F008E9457 /* LCEColorHex.swift in Sources */,
 				04F2C2832466B11700D73DC3 /* AppDelegate.swift in Sources */,
+				0471F1D1257F2ED800EAB574 /* LCESwiftUI.swift in Sources */,
 				047AFDBC247523F700ED4D11 /* LCEModel.swift in Sources */,
 				042EF9332472604400FE84BB /* LCENaviView.swift in Sources */,
 				04F2C28D2466B11700D73DC3 /* LCESwiftBaseProject.xcdatamodeld in Sources */,
